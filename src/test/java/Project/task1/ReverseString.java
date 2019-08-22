@@ -6,7 +6,7 @@ public class ReverseString {
 	@Test
 	public void reverse()
 	{
-		String name="GreensTechnology";
+		String name="Greens Technology";
 		String reverse="";
 		
 		int count=name.length();

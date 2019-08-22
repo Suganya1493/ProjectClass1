@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="147" started-at="2019-08-22T03:22:33Z" finished-at="2019-08-22T03:22:33Z">
+  <suite name="Default suite" duration-ms="69" started-at="2019-08-22T17:17:46Z" finished-at="2019-08-22T17:17:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="147" started-at="2019-08-22T03:22:33Z" finished-at="2019-08-22T03:22:33Z">
+    <test name="Default test" duration-ms="69" started-at="2019-08-22T17:17:46Z" finished-at="2019-08-22T17:17:46Z">
       <class name="Project.task1.ReverseString">
-        <test-method status="PASS" signature="reverse()[pri:0, instance:Project.task1.ReverseString@1efbd816]" name="reverse" duration-ms="47" started-at="2019-08-22T08:52:33Z" finished-at="2019-08-22T08:52:33Z">
+        <test-method status="PASS" signature="reverse()[pri:0, instance:Project.task1.ReverseString@1efbd816]" name="reverse" duration-ms="23" started-at="2019-08-22T22:47:46Z" finished-at="2019-08-22T22:47:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reverse -->
